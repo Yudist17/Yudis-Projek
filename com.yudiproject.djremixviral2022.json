@@ -17,7 +17,7 @@
 
 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "ADS_ON_START" : false, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
@@ -79,8 +79,6 @@ you need to try download this too bro
 , "Mp3": [
 
    { "name_mp3": "DJ Dermaga Biru",    "link_mp3": "https://ia801508.us.archive.org/35/items/sajumedia-full-djremix/dj%20acan%20-%20dermaga%20biru.mp3"  },
-   { "name_mp3": "Dj Ojo Di Bandinge",    "link_mp3": "https://ia601508.us.archive.org/35/items/sajumedia-full-djremix/DJ%20ojo%20di%20bandingke.mp3"  },
-   { "name_mp3": "DJ Sikok Bagi Duo",    "link_mp3": "https://ia601508.us.archive.org/35/items/sajumedia-full-djremix/DJ%20sikok%20bagi%20duo.mp3"  },
    { "name_mp3": "Dj Ojo Di Bandinge",    "link_mp3": "https://ia601508.us.archive.org/35/items/sajumedia-full-djremix/DJ%20ojo%20di%20bandingke.mp3"  },
    { "name_mp3": "DJ Sikok Bagi Duo",    "link_mp3": "https://ia601508.us.archive.org/35/items/sajumedia-full-djremix/DJ%20sikok%20bagi%20duo.mp3"  },
    { "name_mp3": "Dj Yok Ndak Mampu",    "link_mp3": "https://ia801508.us.archive.org/35/items/sajumedia-full-djremix/DJ%20yo%20ndak%20mampu.mp3"  },
