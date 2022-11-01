@@ -37,9 +37,9 @@
 "HPK_ADMOB4" : "telkomsel",
 "HPK_ADMOB5" : "donasi",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "Interstitial",
-"UNITY_GAME_ID" : "4082115",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5001227",
 "UNITY_TEST_MODE" : false,
 
 "STARAPPID" : "200295795",
