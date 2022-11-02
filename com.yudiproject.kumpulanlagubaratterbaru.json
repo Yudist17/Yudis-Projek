@@ -32,20 +32,20 @@
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 20,
+"INTER_COUNT" : 5,
 
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_INTER" : "ca-app-pub-2136203941307516/1134897040",
+"ADMOB_BANNER" : "ca-app-pub-2136203941307516/7617965799",
 "ADMOB_OPENADS" : "BIARKAN KOSONG",
 
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "12345",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5001227",
 
-"STARTAPPID" : "123154",
+"STARTAPPID" : "200295795",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
@@ -78,28 +78,35 @@ you need to try download this too bro
 ]
 ,"Mp3": [
 
-  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
-  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
-  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
-  {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "https://ia802902.us.archive.org/28/items/gerejatuapanbersfeliixirwancover_202003/Gereja%20Tua%20Panbers%20%28%20Feliix%20Irwan%20Cover%20%29.mp4"  },
-  {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  }
-
+  {    "name_mp3": "Beauty_Floet.mp3",                   "link_mp3": "https://ia803205.us.archive.org/20/items/KumpulanLaguBaratHits/Adele-Someone_Like_You.mp3"               },
+  {    "name_mp3": "LOVE  IS  GONE",                     "link_mp3": "https://ia801307.us.archive.org/20/items/lagu-top-hits-barat-offline/LOVE%20IS%20GONE.mp3"               },
+  {    "name_mp3": "AvrilLavigneHeresToNeverGrowingUp",  "link_mp3": "https://ia803205.us.archive.org/20/items/KumpulanLaguBaratHits/AvrilLavigneHeresToNeverGrowingUp.mp3"    },
+  {    "name_mp3": "Bad Romance",                        "link_mp3":  "https://ia903205.us.archive.org/20/items/KumpulanLaguBaratHits/Bad%20Romance.mp3"                       },
+  {    "name_mp3": "Britney_Spears_-I_Wanna_Go",         "link_mp3": "https://ia803205.us.archive.org/20/items/KumpulanLaguBaratHits/Britney_Spears_-I_Wanna_Go.mp3"           },
+  {    "name_mp3": "Bruno Mars - Marry you",             "link_mp3": "https://ia903205.us.archive.org/20/items/KumpulanLaguBaratHits/Bruno%20Mars%20-%20Marry%20you.mp3"       },
+  {    "name_mp3": "David-Guetta-Titanium",              "link_mp3": "https://ia803205.us.archive.org/20/items/KumpulanLaguBaratHits/David-Guetta-Titanium.mp3"                },
+  {    "name_mp3": "Diamonds",                           "link_mp3": "https://ia903205.us.archive.org/20/items/KumpulanLaguBaratHits/Diamonds.mp3"                             },
+  {    "name_mp3": "A THOUSAND YEARS",                   "link_mp3": "https://ia801307.us.archive.org/20/items/lagu-top-hits-barat-offline/A%20THOUSAND%20YEARS.mp3"           },
+  {    "name_mp3": "ALWAYS REMEMBER US",                 "link_mp3": "https://ia801307.us.archive.org/20/items/lagu-top-hits-barat-offline/ALWAYS%20REMEMBER%20US.mp3"         },
+  {    "name_mp3": "BEFORE  YOU  GO",                    "link_mp3": "https://ia801307.us.archive.org/20/items/lagu-top-hits-barat-offline/BEFORE%20YOU%20GO.mp3"              },
+  {    "name_mp3": "LOCATION  UNKNOWN",                  "link_mp3": "https://ia801307.us.archive.org/20/items/lagu-top-hits-barat-offline/LOCATION%20UNKNOWN.mp3"             },
+  {    "name_mp3": "JUST  GIVE  ME  A  REASON",          "link_mp3": "https://ia601307.us.archive.org/20/items/lagu-top-hits-barat-offline/JUST%20GIVE%20ME%20A%20REASON.mp3"  },
+  {    "name_mp3": "PHOTOGRAPH",                         "link_mp3": "https://ia801307.us.archive.org/20/items/lagu-top-hits-barat-offline/PHOTOGRAPH.mp3"                     },
+  {    "name_mp3": "THINKING  OUT  LOUD",                "link_mp3": "https://ia801307.us.archive.org/20/items/lagu-top-hits-barat-offline/THINKING%20OUT%20LOUD.mp3"          }
 
 ],
 "Wallpaper": [
 
- {    "image": "https://images.wallpapersden.com/image/download/pink-sky-in-urban-city_64746_4000x6000.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp3761429.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp6235495.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp5975713.jpg"  },
- {    "image": "https://w.wallhaven.cc/full/73/wallhaven-737jwy.jpg"  },
- {    "image": "file:///android_asset/wallpaper (1).jpg"  },
- {    "image": "file:///android_asset/wallpaper (2).jpg"  },
- {    "image": "file:///android_asset/wallpaper (3).jpg"  },
- {    "image": "file:///android_asset/wallpaper (4).jpg"  },
- {    "image": "file:///android_asset/wallpaper (5).jpg"  },
- {    "image": "file:///android_asset/wallpaper (6).jpg"  },
- {    "image": "file:///android_asset/wallpaper (7).jpg"  }
+  {    "image": "file:///android_asset/wallpaper (1).jpg"  },
+  {    "image": "file:///android_asset/wallpaper (2).jpg"  },
+  {    "image": "file:///android_asset/wallpaper (3).jpg"  },
+  {    "image": "file:///android_asset/wallpaper (4).jpg"  },
+  {    "image": "file:///android_asset/wallpaper (5).jpg"  },
+  {    "image": "file:///android_asset/wallpaper (6).jpg"  },
+  {    "image": "file:///android_asset/wallpaper (7).jpg"  },
+  {    "image": "file:///android_asset/wallpaper (8).jpg"  },
+  {    "image": "file:///android_asset/wallpaper (9).jpg"  },
+  {    "image": "file:///android_asset/wallpaper (10).jpg" }
 
 ]
 }
