@@ -6,7 +6,7 @@
 //  and STATUS_APP = "1" if your app "suspend"
 //  fill LINK_REDIRECT with new link app
 "STATUS_APP" : "0",
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.yudiproject.kumpulanlagureggae",
 
 // memanggil data dari json "online" atau json "offline"
 //  online atau offline
@@ -21,7 +21,7 @@
 "ADS_ON_START" : false, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"JSON_POPUP_WAIT" : "Server Ready . . .",
 "MODE_NO_ADS_TRUE" : "Pro Version Actived",
 
 // PENGATURAN IKLAN
@@ -34,18 +34,18 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "INTER_COUNT" : 5,
 
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_INTER" : "ca-app-pub-2136203941307516/1134897040",
+"ADMOB_BANNER" : "ca-app-pub-2136203941307516/7617965799",
 "ADMOB_OPENADS" : "BIARKAN KOSONG",
 
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "12345",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5001227",
 
-"STARTAPPID" : "123154",
+"STARTAPPID" : "200295795",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
@@ -72,27 +72,33 @@ this the best apps ever, ive try it and so awesome
 you need to try download this too bro
 ",
 "MORE_BUTTON" : "Share Via Whatsapp",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.yudiproject.kumpulanlagureggae"
 
 }
 ]
 ,"Mp3": [
 
-  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
-  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
-  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
-  {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "https://ia802902.us.archive.org/28/items/gerejatuapanbersfeliixirwancover_202003/Gereja%20Tua%20Panbers%20%28%20Feliix%20Irwan%20Cover%20%29.mp4"  },
-  {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  }
+  {    "name_mp3": "ADA  AKU  DISINI",    "link_mp3": "https://ia902509.us.archive.org/26/items/lagu-reggae-full-album-mp3/ADA%20AKU%20DISINI.mp3"  },
+  {    "name_mp3": "BILA  CINTA  DI  DUSTA",    "link_mp3": "https://ia802509.us.archive.org/26/items/lagu-reggae-full-album-mp3/BILA%20CINTA%20DI%20DUSTA.mp3"  },
+  {    "name_mp3": "Kopi  Lambada",    "link_mp3": "https://ia903400.us.archive.org/30/items/12.-kopi-lambada/12.%20Kopi%20Lambada.mp3"  },
+  {    "name_mp3": "Zona  Nyaman",    "link_mp3": "https://ia800900.us.archive.org/7/items/RinduSerinduRindunyaReggaeVersion/Lagu%20Reggae%20Indonesia%20Zona%20Nyaman%20-%20Fourtwnty%20Cover%20Versi%20Reggae.mp3"  },
+  {    "name_mp3": "Seventeen Kemarin Vers Reggae",    "link_mp3": "https://ia600900.us.archive.org/7/items/RinduSerinduRindunyaReggaeVersion/Seventeen%20-%20Kemarin%20Versi%20Reggae%20%28Video%20Lyric%29.mp3"  },
+  {    "name_mp3": "Sejedewe- Cinta  di  Pantai Bali",    "link_mp3": "https://ia601202.us.archive.org/11/items/LaguReggae/01%20Sejedewe%20-%20Cinta%20di%20Pantai%20Bali.mp3"  },
+  {    "name_mp3": "Sejedewe - Wanita Munafik",    "link_mp3": "https://ia801202.us.archive.org/11/items/LaguReggae/03%20Sejedewe%20-%20Wanita%20Munafik%20%28acoustic%29%20%281%29.mp3"  },
+  {    "name_mp3": "Sunset - Janji",    "link_mp3": "https://ia601202.us.archive.org/11/items/LaguReggae/21%20Sunset%20-%20Janji.mp3"  },
+  {    "name_mp3": "Dhyo Haw - Cepu",    "link_mp3": "https://ia601202.us.archive.org/11/items/LaguReggae/Dhyo%20Haw%20-%2003%20Cepu.mp3"  },
+  {    "name_mp3": "Dhyo Haw - Yang Terlupakan",    "link_mp3": "https://ia801202.us.archive.org/11/items/LaguReggae/Dhyo%20Haw%20-%2009%20Yang%20Terlupakan.mp3"  },
+  {    "name_mp3": "Dhyo Haw - Tetap tersenyum kawan",    "link_mp3": "https://ia801202.us.archive.org/11/items/LaguReggae/Dhyo%20Haw%20-%2008%20Tetap%20tersenyum%20kawan.mp3"  },
+  {    "name_mp3": "Dhyo Haw - Ada aku disini",    "link_mp3": "https://ia601202.us.archive.org/11/items/LaguReggae/Dhyo%20Haw%20-%2010%20Ada%20aku%20disini.mp3"  },
+  {    "name_mp3": "Dhyo Haw - Kecewa",    "link_mp3": "https://ia801202.us.archive.org/11/items/LaguReggae/Dhyo%20Haw%20-%2012%20Kecewa.mp3"  },
+  {    "name_mp3": "Dhyo Haw - Sekeras Batu",    "link_mp3": "https://ia601202.us.archive.org/11/items/LaguReggae/Dhyo%20Haw%20-%2013%20Sekeras%20Batu.mp3"  },
+  {    "name_mp3": "Sejedewe - Wedang Jahe",    "link_mp3": "https://ia601202.us.archive.org/11/items/LaguReggae/04%20Sejedewe%20-%20Wedang%20Jahe.mp3"  },
 
 
 ],
 "Wallpaper": [
 
- {    "image": "https://images.wallpapersden.com/image/download/pink-sky-in-urban-city_64746_4000x6000.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp3761429.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp6235495.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp5975713.jpg"  },
- {    "image": "https://w.wallhaven.cc/full/73/wallhaven-737jwy.jpg"  },
+
  {    "image": "file:///android_asset/wallpaper (1).jpg"  },
  {    "image": "file:///android_asset/wallpaper (2).jpg"  },
  {    "image": "file:///android_asset/wallpaper (3).jpg"  },
