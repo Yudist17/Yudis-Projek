@@ -78,28 +78,48 @@ you need to try download this too bro
 ]
 ,"Mp3": [
 
-  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
-  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
-  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
-  {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "https://ia802902.us.archive.org/28/items/gerejatuapanbersfeliixirwancover_202003/Gereja%20Tua%20Panbers%20%28%20Feliix%20Irwan%20Cover%20%29.mp4"  },
-  {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  }
+  {    "name_mp3": "Al Burdah ",                                "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Al%20Burdah%20Sholawat%20Nabi%20Bikin%20Nangis%20Versi%20Baper.mp3"  },
+  {    "name_mp3": "Habib_Syech  -  Sholatulloh",               "link_mp3": "https://ia600304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_11/Habib_Syech___Sholatulloh.mp3"  },
+  {    "name_mp3": "Hayyul Hadi ",                              "link_mp3": "https://ia601402.us.archive.org/3/items/HayyulHadiVersiGusAzmiSyubbanulMuslimin/Hayyul%20Hadi%20Versi%20Gus%20Azmi%20Syubbanul%20Muslimin.mp3"  },
+  {    "name_mp3": "Habibal Qolbi",                             "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Pujaan%20Hati%20%28Habibal%20Qolbi%29%20Sholawat%20Bikin%20Baper%20%26%20Terharu.mp3"  },
+  {    "name_mp3": "Shalawat Hasbi Robbi",                      "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Shalawat%20Hasbi%20Robbi%20merdu%20banget%20bikin%20nangis%20%F0%9F%98%AD%F0%9F%98%AD.mp3"  },
+  {    "name_mp3": "Qomarun Mostafa ",                          "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Qomarun%20-%20Mostafa%20Atef%20%28%20Cover%20by%20Sabyan%20%29.mp3"  },
+  {    "name_mp3": "Ya lal wathon",                             "link_mp3": "https://ia801601.us.archive.org/6/items/HABIBJAFARALJUFRIMAHALULQIYAMMenggetarkanHati_201705/Habib%20Ja%27far/Habib%20Ja_far%20bin%20Utsman%20Al%20Jufri%20%20%20Ya%20lal%20wathon.mp3"  },
+  {    "name_mp3": "Habib_Syech - Allohu_Alloh",                "link_mp3": "https://ia600304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_1/1._Allohu_Alloh.mp3"  },
+  {    "name_mp3": "Al-itirof - HabibSyech",                    "link_mp3": "https://ia600304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_10/Al-itirof-habibSyechVol10.mp3"  },
+  {    "name_mp3": "Lir-Ilir  - Habib Syech",                   "link_mp3": "https://ia800304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_10/Lir-Ilir-habibSyechVol10.mp3"  },
+  {    "name_mp3": "Habib_Syech -  Inna_Fil_Jannati",           "link_mp3": "https://ia600304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_11/Habib_Syech___Inna_Fil_Jannati.mp3"  },
+  {    "name_mp3": "Habib_Syech - Shollawatul_Badar",           "link_mp3": "https://ia800304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_6/06._Shollawatul_Badar.mp3"  },
+  {    "name_mp3": "KisahArrosul - Habib Syech",                "link_mp3": "https://ia600304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_10/KisahArrosul-habibSyechVol10.mp3"  },
+  {    "name_mp3": "Habib_Syech - Antal_Amin",                  "link_mp3": "https://ia600304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_1/3._Antal_Amin.mp3"  },
+  {    "name_mp3": "Habib_Syech - Da_uni",                      "link_mp3": "https://ia800304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_1/5._Da_uni.mp3"  },
+  {    "name_mp3": "Habib_Syech - Ahlan_wa_Sahlan_bin_nabi",    "link_mp3": "https://ia600304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_1/6._Ahlan_wa_Sahlan_bin_nabi.mp3"  },
+  {    "name_mp3": "Habib_Syech - PadangBulan ",                "link_mp3": "https://ia600304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_10/PadangBulan-habibSyechVol10.mp3"  },
+  {    "name_mp3": "Habib_Syech - Alangkah_Indahnya",           "link_mp3": "https://ia600304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_11/Habib_Syech___Alangkah_Indahnya.mp3"  },
+  {    "name_mp3": "Habib_Syech - Ya_Dzal_Jalali_Wal_Ikram",    "link_mp3": "https://ia800304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_3/02._Ya_Dzal_Jalali_Wal_Ikram.mp3"  },
+  {    "name_mp3": "Habib_Syech - Ya_Maulidal_Mustofa",         "link_mp3": "https://ia800304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_2/1._Ya_Maulidal_Mustofa.mp3"  },
+  {    "name_mp3": "Habib_Syech - Assalamualaika",              "link_mp3": "https://ia800304.us.archive.org/1/items/Sholawat_Habib_Syech_Abdul_Qadir_Assegaf/Habib_Syech_-_Vol_6/01._Assalamualaika.mp3"  }
 
 
 ],
 "Wallpaper": [
 
- {    "image": "https://images.wallpapersden.com/image/download/pink-sky-in-urban-city_64746_4000x6000.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp3761429.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp6235495.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp5975713.jpg"  },
- {    "image": "https://w.wallhaven.cc/full/73/wallhaven-737jwy.jpg"  },
+
  {    "image": "file:///android_asset/wallpaper (1).jpg"  },
  {    "image": "file:///android_asset/wallpaper (2).jpg"  },
  {    "image": "file:///android_asset/wallpaper (3).jpg"  },
  {    "image": "file:///android_asset/wallpaper (4).jpg"  },
  {    "image": "file:///android_asset/wallpaper (5).jpg"  },
  {    "image": "file:///android_asset/wallpaper (6).jpg"  },
- {    "image": "file:///android_asset/wallpaper (7).jpg"  }
+ {    "image": "file:///android_asset/wallpaper (7).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (8).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (9).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (10).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (11).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (12).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (13).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (14).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (15).jpg"  }
 
 ]
 }
