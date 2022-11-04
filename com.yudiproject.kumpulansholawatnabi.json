@@ -6,7 +6,7 @@
 //  and STATUS_APP = "1" if your app "suspend"
 //  fill LINK_REDIRECT with new link app
 "STATUS_APP" : "0",
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.yudiproject.kumpulansholawatnabi",
 
 // memanggil data dari json "online" atau json "offline"
 //  online atau offline
@@ -32,7 +32,7 @@
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 5,
+"INTER_COUNT" : 3,
 
 "ADMOB_INTER" : "ca-app-pub-2136203941307516/7617965799",
 "ADMOB_BANNER" : "ca-app-pub-2136203941307516/1134897040",
@@ -72,7 +72,7 @@ this the best apps ever, ive try it and so awesome
 you need to try download this too bro
 ",
 "MORE_BUTTON" : "Share Via Whatsapp",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.yudiproject.kumpulansholawatnabi"
 
 }
 ]
