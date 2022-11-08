@@ -6,7 +6,7 @@
 //  and STATUS_APP = "1" if your app "suspend"
 //  fill LINK_REDIRECT with new link app
 "STATUS_APP" : "0",
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.yudiproject.lagudangdutmp3",
 
 // memanggil data dari json "online" atau json "offline"
 //  online atau offline
@@ -17,11 +17,11 @@
 
 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "ADS_ON_START" : false, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"JSON_POPUP_WAIT" : "Server Ready . . .",
 "MODE_NO_ADS_TRUE" : "Pro Version Actived",
 
 // PENGATURAN IKLAN
@@ -32,20 +32,20 @@
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 20,
+"INTER_COUNT" : 4,
 
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_INTER" : "ca-app-pub-2136203941307516/7617965799",
+"ADMOB_BANNER" : "ca-app-pub-2136203941307516/1134897040",
 "ADMOB_OPENADS" : "BIARKAN KOSONG",
 
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "12345",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5001227",
 
-"STARTAPPID" : "123154",
+"STARTAPPID" : "200295795",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
@@ -72,34 +72,43 @@ this the best apps ever, ive try it and so awesome
 you need to try download this too bro
 ",
 "MORE_BUTTON" : "Share Via Whatsapp",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.yudiproject.lagudangdutmp3"
 
 }
 ]
 ,"Mp3": [
 
-  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
-  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
-  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
-  {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "https://ia802902.us.archive.org/28/items/gerejatuapanbersfeliixirwancover_202003/Gereja%20Tua%20Panbers%20%28%20Feliix%20Irwan%20Cover%20%29.mp4"  },
-  {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  }
+  {    "name_mp3": "Indah Pada Waktunya",    "link_mp3": "https://ia800808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Dewi%20Perssik%20-%20Indah%20Pada%20Waktunya.mp3"  },
+  {    "name_mp3": "Halalin Aku",    "link_mp3": "https://ia600808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Dewi%20Perssik%20-%20Halalin%20Aku.mp3https://ia800808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Endah%20Saraswati%20-%20Berdayung%20Cinta.mp3"  },
+  {    "name_mp3": "Berdayung Cinta",    "link_mp3": "https://ia800808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Endah%20Saraswati%20-%20Berdayung%20Cinta.mp3"  },
+  {    "name_mp3": "Memori Daun Pisang",    "link_mp3": "https://ia800808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Endah%20Saraswati%20-%20Memori%20Daun%20Pisang.mp3"  },
+  {    "name_mp3": "Disimpang Jalan",    "link_mp3": "https://ia600808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Ine%20Sinthya%20-%20Disimpang%20Jalan.mp3"  },
+  {    "name_mp3": "Perpisahan",    "link_mp3": "https://ia600808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Lesti%20Andryani%20-%20Perpisahan.mp3"  },
+  {    "name_mp3": "Suratan",    "link_mp3": "https://ia800808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Utami%20Dewi%20Fortuna%20-%20Suratan.mp3"  },
+  {    "name_mp3": "Kalau Bulan Bisa Ngomong",    "link_mp3": "https://ia800808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Ucie%20Sucita%20-%20Kalau%20Bulan%20Bisa%20Ngomong.mp3"  },
+  {    "name_mp3": "Witing Tresno",    "link_mp3": "https://ia800808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Endah%20Saraswati%20-%20Witing%20Tresno.mp3"  },
+  {    "name_mp3": "Terkubur Cinta",    "link_mp3": "https://ia600808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Ine%20Sinthya%20-%20Terkubur%20Cinta.mp3"  },
+  {    "name_mp3": "Buka Mata Hati",    "link_mp3": "https://ia600808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Lesti%20Andryani%20-%20Buka%20Mata%20Hati.mp3"  },
+  {    "name_mp3": "Kembalilah Kasih",    "link_mp3": "https://ia800808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Tika%20Kristianti%20-%20Kembalilah%20Kasih.mp3"  },
+  {    "name_mp3": "Ya Nasib",    "link_mp3": "https://ia800808.us.archive.org/27/items/IneSinthyaDisimpangJalan/Susi%20Legit%20-%20Ya%20Nasib.mp3"  },
+  {    "name_mp3": "Akhir Sebuah Cerita",    "link_mp3": "https://ia600901.us.archive.org/6/items/AKHIRSEBUAHCERITAFitriAlfianaSLOWCOVERCandraKiranaPonorogo/AKHIR%20SEBUAH%20CERITA%20-%20Fitri%20Alfiana%20%28SLOW%20COVER%29%20Candra%20Kirana%20Ponorogo.mp3"  }
+
 
 
 ],
 "Wallpaper": [
 
- {    "image": "https://images.wallpapersden.com/image/download/pink-sky-in-urban-city_64746_4000x6000.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp3761429.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp6235495.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp5975713.jpg"  },
- {    "image": "https://w.wallhaven.cc/full/73/wallhaven-737jwy.jpg"  },
+
  {    "image": "file:///android_asset/wallpaper (1).jpg"  },
  {    "image": "file:///android_asset/wallpaper (2).jpg"  },
  {    "image": "file:///android_asset/wallpaper (3).jpg"  },
  {    "image": "file:///android_asset/wallpaper (4).jpg"  },
  {    "image": "file:///android_asset/wallpaper (5).jpg"  },
  {    "image": "file:///android_asset/wallpaper (6).jpg"  },
- {    "image": "file:///android_asset/wallpaper (7).jpg"  }
+ {    "image": "file:///android_asset/wallpaper (7).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (8).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (9).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (10).jpg"  }
 
 ]
 }
