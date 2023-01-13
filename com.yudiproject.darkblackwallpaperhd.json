@@ -5,7 +5,7 @@
 
 "TOAST_NOTIF" : false,
 
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
@@ -70,14 +70,14 @@ klik tombol rating
 "SHARE_TXT" : "
 wah aplikasi ini bagus banget
 aku udah nyobain 
-coba deh kamu donwload sekrang juga
+coba deh kamu donwload sekarang juga
 
 ",
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.yudiproject.darkblackwallpaperhd",
 
 "REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.yudiproject.darkblackwallpaperhd"
 
 
   }
